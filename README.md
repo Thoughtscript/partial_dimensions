@@ -21,6 +21,8 @@
 
 ## Leibnizian Failure in Fuzzy Topological Spaces
 
+### Non-Cartesian Coordinate Systems
+
 
 ## Partial Dimensions and Cartesian Failure
 
