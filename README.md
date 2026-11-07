@@ -21,6 +21,7 @@
 
 ## Leibnizian Failure in Fuzzy Topological Spaces
 
+
 ### Non-Cartesian Coordinate Systems
 
 
@@ -32,7 +33,7 @@
 
 
 
-## Spatial Frame and Relationalism
+## Spatial Frames and Relationalism
 
 ### Coordinates and Relative Orientation
 
